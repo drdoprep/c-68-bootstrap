@@ -1,0 +1,61 @@
+.my_nav_bar{
+    position: sticky;
+    top: 0;
+    z-index: 99999
+}
+#welcome{
+    background: linear-gradient(#e303fc 0%, #0b03fc 100%);
+    padding: 10px;
+}
+#welcome h1{
+    font-size: 40px;
+    color:aliceblue;
+    font-family: cursive;
+}
+#welcome h2{
+    font-size: 40px;
+    color:black;
+    font-family:fantasy;
+}
+  
+#welcome span{
+    font-size: 40px;
+    color:black;
+    font-family:fantasy;
+}
+#bio {
+    font-size: 20px;
+    color:black;
+    background-color:chartreuse;
+    font-family:monospace;
+    }
+#videos {
+    font-size: 20px;
+    color:black;
+    background-color:coral;
+    font-family:monospace;
+    }
+#writings {
+    font-size: 20px;
+    color:black;
+    background-color:cyan;
+    font-family:monospace;
+    }
+#contact {
+    font-size: 20px;
+    color:black;
+    background-color:deeppink;
+    font-family:monospace;
+    }
+#work {
+    font-size: 20px;
+    color:black;
+    background-color:fuchsia;
+    font-family:monospace;
+    }
+.work_iframe{
+    width: 100% :important;
+    margin: 0px :important;
+}
+
+
